@@ -1,27 +1,18 @@
-# Hello there, I'm Sujal <a href="https://www.phung.cz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
+### Hello there, I'm Sujal <a href="https://www.phung.cz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
-## About Me
-I'm a Front End Developer specializing in Next.js (React) with nearly 1.5 years of experience.
+👨‍💻 &nbsp;**Frontend developer specializing in Next.js (React).**
 
-## Front-End Skills        | ## Back-End Skills           | ## Deployment & Version Control
---------------------------|------------------------------|---------------------------------
-- Next.js                  | - Strapi CMS                 | - Vercel
-- React                    | - PostgreSQL                 | - Render
-- JavaScript               | - SQLite                     | - Git & GitHub
-- TypeScript               | - Cloudinary
-- HTML                     | - Notion API
-- CSS                      |
-- Tailwind CSS             |
-- Framer Motion            |
-- Figma                    |
+- 🛠️ Skills: Next.js, React, Javascript, Typescript, HTML, CSS, Tailwind CSS, Framer Motion, Notion Api, Strapi CMS, PostgreSQL, SQLite, Cloudinary, Vercel, Render, Git & Github, Figma.
+- 🚀 Portfolio: [https://sujalvanjareportfolio.vercel.app](https://sujalvanjareportfolio.vercel.app)
+- 💼 Looking for a Remote opportunity
+- 📫 &nbsp;Reach me: [sujalvanjaredev@gmail.com](mailto:sujalvanjaredev@gmail.com)
 
-## My Portfolio
-Check out my portfolio: [Sujal Vanjare Portfolio](https://sujalvanjareportfolio.vercel.app)
 
-## Job Search
-I am actively seeking a remote position in Front-End Next.js Development.
 
-## Contact Me
-Feel free to reach out to me at [sujalvanjaredev@gmail.com](mailto:sujalvanjaredev@gmail.com) for any inquiries or opportunities.
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Next JS The Best React Framework](https://sujalblog.vercel.app/blog/next-js-the-best-react-framework)
+- [Next JS new App Router Data fetching method](https://sujalblog.vercel.app/blog/next-js-new-app-router-data-fetching-method)
+<!-- BLOG-POST-LIST:END -->
 
 
