@@ -7,8 +7,8 @@
 - 💼 Looking for a Remote opportunity
 - 📫 &nbsp;Reach me: [sujalvanjaredev@gmail.com](mailto:sujalvanjaredev@gmail.com)
 
-
-
+<!-- -->
+<!-- -->
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Next JS The Best React Framework](https://sujalblog.vercel.app/blog/next-js-the-best-react-framework)
