@@ -11,6 +11,7 @@
 <!-- -->
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Notion Renderer](https://notion-block-renderer.vercel.app)
 - [Next JS The Best React Framework](https://sujalblog.vercel.app/blog/next-js-the-best-react-framework)
 - [How to fetch Data in Next JS new App router](https://sujalblog.vercel.app/blog/how-to-fetch-data-in-next-js-new-app-router)
 <!-- BLOG-POST-LIST:END -->
