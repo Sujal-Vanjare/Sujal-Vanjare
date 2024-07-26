@@ -3,7 +3,7 @@
 👨‍💻 &nbsp;**Frontend developer specializing in Next.js (React).**
 
 - 🛠️ Skills: Next.js, React, Javascript, Typescript, HTML, CSS, Tailwind CSS, Framer Motion, Notion Api, Strapi CMS, PostgreSQL, SQLite, Cloudinary, Vercel, Render, Git & Github, Figma.
-- 🚀 Portfolio: [https://sujalvanjareportfolio.vercel.app](https://sujalvanjareportfolio.vercel.app)
+- 🚀 Portfolio: [https://sujalvanjareportfolio.vercel.app](https://sujalvanjare.vercel.app)
 - 💼 Looking for a Remote opportunity
 - 📫 &nbsp;Reach me: [sujalvanjaredev@gmail.com](mailto:sujalvanjaredev@gmail.com)
 
