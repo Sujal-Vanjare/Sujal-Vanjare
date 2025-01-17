@@ -6,8 +6,8 @@
 
 ### 🛠️ Skills  
 **Frontend & Frameworks:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Framer Motion  
-**Backend & Databases:** Supabase, Strapi Headless CMS, Notion API, Stripe 
-**Hosting & Design:** Git & GitHub, Vercel, Render, Figma 
+**Backend & Databases:** Supabase, Strapi Headless CMS, Notion API, Stripe  
+**Hosting & Design:** Git & GitHub, Vercel, Render, Figma  
 
 ---
 
