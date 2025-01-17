@@ -1,13 +1,13 @@
 ### Hello there, I'm Sujal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-👨‍💻 **Frontend Developer Specializing in Next.js (React)**  
+👨‍💻 **Front End Developer Specialized in Next.js**  
 
 ---
 
 ### 🛠️ Skills  
 **Frontend & Frameworks:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Framer Motion  
-**Backend & Databases:** Supabase, Strapi Headless CMS, Notion API  
-**Tools & Utilities:** Stripe, Figma  
+**Backend & Databases:** Supabase, Strapi Headless CMS, Notion API, Stripe 
+**Hosting & Design:** Git & GitHub, Vercel, Render, Figma 
 
 ---
 
@@ -31,6 +31,6 @@ Check out my work at: [**sujalvanjare.vercel.app**](https://sujalvanjare.vercel.
 **NoNex (Notion + Next.js)**  
 Build websites effortlessly using **Notion as a CMS & Backend Database**.  
 
-[![Nonex](https://res.cloudinary.com/drzcgtzx8/image/upload/v1733225620/portfolio/nonex/uadkcfcfznpexxoeyb2d.png)](https://nonex.vercel.app)  
+[![Nonex](https://res.cloudinary.com/drzcgtzx8/image/upload/c_scale,w_500/v1733225620/portfolio/nonex/uadkcfcfznpexxoeyb2d.png)](https://nonex.vercel.app)  
 
 Visit the website: [**nonex.vercel.app**](https://nonex.vercel.app)
