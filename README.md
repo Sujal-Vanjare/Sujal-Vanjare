@@ -1,19 +1,36 @@
 ### Hello there, I'm Sujal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-👨‍💻 &nbsp;**Frontend developer specializing in Next.js (React).**
+👨‍💻 **Frontend Developer Specializing in Next.js (React)**  
 
-- 🛠️ Skills: Next.js, React, Javascript, Typescript, HTML, CSS, Tailwind CSS, Framer Motion, Notion Api, Strapi CMS, PostgreSQL, SQLite, Cloudinary, Vercel, Render, Git & Github, Figma.
-- 🚀 Portfolio: [https://sujalvanjareportfolio.vercel.app](https://sujalvanjare.vercel.app)
-- 💼 Looking for a Remote opportunity
-- 📫 &nbsp;Reach me: [sujalvanjaredev@gmail.com](mailto:sujalvanjaredev@gmail.com)
+---
 
-<!-- -->
-<!-- -->
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Notion Renderer](https://notion-block-renderer.vercel.app)
-- [Next JS The Best React Framework](https://sujalblog.vercel.app/blog/next-js-the-best-react-framework)
-- [How to fetch Data in Next JS new App router](https://sujalblog.vercel.app/blog/how-to-fetch-data-in-next-js-new-app-router)
-<!-- BLOG-POST-LIST:END -->
+### 🛠️ Skills  
+**Frontend & Frameworks:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Framer Motion  
+**Backend & Databases:** Supabase, Strapi Headless CMS, Notion API  
+**Tools & Utilities:** Stripe, Figma  
 
+---
 
+### 🚀 Portfolio  
+Check out my work at: [**sujalvanjare.vercel.app**](https://sujalvanjare.vercel.app)  
+
+---
+
+### 💼 Looking for Opportunities  
+**Available for Remote Roles** | Let's connect: [sujalvanjaredev@gmail.com](mailto:sujalvanjaredev@gmail.com)  
+
+---
+
+### 📕 Latest Blog Posts  
+- [How to Add Perfect Dark & Light Mode in Next.js](https://sujalvanjare.vercel.app/blog/perfect-dark-mode)  
+- [How to Highlight Code Syntax with PrismJS Statically in Next.js with Dark and Light Themes](https://sujalvanjare.vercel.app/blog/code-syntax-highlighting)  
+
+---
+
+### 🔨 My SaaS Product  
+**NoNex (Notion + Next.js)**  
+Build websites effortlessly using **Notion as a CMS & Backend Database**.  
+
+[![Nonex](https://res.cloudinary.com/drzcgtzx8/image/upload/v1733225620/portfolio/nonex/uadkcfcfznpexxoeyb2d.png)](https://nonex.vercel.app)  
+
+Visit the website: [**nonex.vercel.app**](https://nonex.vercel.app)
