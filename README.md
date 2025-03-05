@@ -22,8 +22,8 @@ Check out my work at: [**sujalvanjare.vercel.app**](https://sujalvanjare.vercel.
 ---
 
 ### 📕 Latest Blog Posts  
-- [How to Add Perfect Dark & Light Mode in Next.js](https://sujalvanjare.vercel.app/blog/perfect-dark-mode)  
-- [How to Highlight Code Syntax with PrismJS Statically in Next.js with Dark and Light Themes](https://sujalvanjare.vercel.app/blog/code-syntax-highlighting)  
+- [How to Safelist Classes in Tailwind CSS V4](https://sujalvanjare.vercel.app/blog/safelist-classes-tailwind-css-v4)  
+- [How to Add Dark Mode in Next.js 15 App Router with Tailwind CSS V4 (Latest Method)](https://sujalvanjare.vercel.app/blog/dark-mode-nextjs15-tailwind-v4)  
 
 ---
 
