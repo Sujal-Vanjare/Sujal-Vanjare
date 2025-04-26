@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 Portfolio  
-Check out my work at: [**sujalvanjare.vercel.app**](https://sujalvanjare.vercel.app)  
+Check out my work at: [**sujalvanjare.com**](https://www.sujalvanjare.com)  
 
 ---
 
@@ -22,8 +22,8 @@ Check out my work at: [**sujalvanjare.vercel.app**](https://sujalvanjare.vercel.
 ---
 
 ### 📕 Latest Blog Posts  
-- [How to Safelist Classes in Tailwind CSS V4](https://sujalvanjare.vercel.app/blog/safelist-classes-tailwind-css-v4)  
-- [How to Add Dark Mode in Next.js 15 App Router with Tailwind CSS V4 (Latest Method)](https://sujalvanjare.vercel.app/blog/dark-mode-nextjs15-tailwind-v4)  
+- [How to Safelist Classes in Tailwind CSS V4](https://www.sujalvanjare.com/blog/safelist-classes-tailwind-css-v4)  
+- [How to Add Dark Mode in Next.js 15 App Router with Tailwind CSS V4 (Latest Method)](https://www.sujalvanjare.com/blog/dark-mode-nextjs15-tailwind-v4)  
 
 ---
 
