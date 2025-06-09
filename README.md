@@ -21,9 +21,9 @@ Building clean, beautiful websites with Next.js (React) and Tailwind CSS.
 [<img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" height="36" alt="Gmail" />](mailto:sujalvanjaredev@gmail.com) &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="36" alt="LinkedIn" />](https://www.linkedin.com/in/sujal-vanjare) &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" height="36" alt="X" />](https://x.com/sujal_vanjare) &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Threads_%28app%29.svg" height="36" alt="Threads" />](https://www.threads.com/@sujal_.160) &nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Threads_%28app%29.svg" height="36" alt="Threads" />](https://www.threads.com/@sujal_vanjare_) &nbsp;
+[<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="36" alt="Instagram" />](https://www.instagram.com/sujal_vanjare_/) &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="36" alt="Bluesky" />](https://bsky.app/profile/sujal-160.bsky.social) &nbsp;
-[<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="36" alt="Instagram" />](https://www.instagram.com/sujal_.160/) &nbsp;
 [<img src="https://cdn.buymeacoffee.com/uploads/project_updates/2023/12/08f1cf468ace518fc8cc9e352a2e613f.png" height="36" alt="Buy Me a Coffee" />](https://buymeacoffee.com/sujal_vanjare)
 
 <br>
