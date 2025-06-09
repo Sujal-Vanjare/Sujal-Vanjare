@@ -1,51 +1,49 @@
 ### Hello there, I'm Sujal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-👨‍💻 **Front End Developer Specialized in Next.js**  
+Building clean, beautiful websites with Next.js (React) and Tailwind CSS.
+
+👉 Check out my work and coding tutorial blogs → www.sujalvanjare.com
 
 ---
 
 ### 🛠️ Skills  
+| **Frontend Development** | **Backend & APIs** |
+|--------------------------|-------------------|
+| [<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="20" height="20" alt="HTML5"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) HTML  <br> [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" width="20" height="20" alt="CSS3"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) CSS  <br> [<img src="https://www.svgrepo.com/show/353925/javascript.svg" width="20" height="20" alt="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript  <br> [<img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width="20" height="20" alt="TypeScript"/>](https://www.typescriptlang.org/) TypeScript  <br> [<img src="https://cdn.simpleicons.org/react/61DAFB" width="20" height="20" alt="React"/>](https://reactjs.org/) React.js  <br> [<img src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/36c73a92-668a-4962-9217-c49ab648729a/next-js.svg" width="20" height="20" alt="Next.js"/>](https://nextjs.org/) Next.js   <br> [<img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="20" height="20" alt="Tailwind CSS"/>](https://tailwindcss.com/) Tailwind CSS  <br> [<img src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/1c2a0105-efaf-405e-8577-e5521f2fe781/motion.svg" width="20" height="20" alt="Framer Motion"/>](https://www.framer.com/motion/) Framer Motion | [<img src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/20657b4e-8f38-4be7-9ee5-d6e6934fa1dc/supabase.svg" width="20" height="20" alt="Supabase"/>](https://supabase.com/) Supabase  <br> [<img src="https://www.svgrepo.com/show/354399/strapi-icon.svg" width="20" height="20" alt="Strapi"/>](https://strapi.io/) Strapi Headless CMS  <br> [<img src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/072bbd9f-a3e6-44f1-a595-f0d953f0d3c9/notion.svg" width="20" height="20" alt="Notion"/>](https://notion.so/) Notion API  <br> [<img src="https://www.svgrepo.com/show/452108/stripe.svg" width="20" height="20" alt="Stripe"/>](https://stripe.com/) Stripe |
 
-#### 🧠 Frontend Development  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff&style=flat)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)  
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-E10098?logo=framer&logoColor=white&style=flat)
+| **DevOps & Deployment** | **Design & Prototyping** |
+|------------------------|-------------------------|
+| [<img src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/c994981f-a2a5-463f-a5ad-76afe7b069d2/github.svg" width="20" height="20" alt="GitHub"/>](https://github.com/) Git & GitHub  <br> [<img src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/2a751613-7f4e-40f8-a509-c34171a1ff5d/vercel.svg" width="20" height="20" alt="Vercel"/>](https://vercel.com/) Vercel  <br> [<img src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/263d5526-c0d1-406b-bb63-4b0d5cdad29e/render.svg" width="20" height="20" alt="Render"/>](https://render.com/) Render  <br> [<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="20" height="20" alt="Netlify"/>](https://netlify.com/) Netlify | [<img src="https://www.svgrepo.com/show/354987/figma.svg" width="20" height="20" alt="Figma"/>](https://figma.com/) Figma |
 
-#### 🚀 DevOps & Deployment  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
-![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white&style=flat)  
-![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=000&style=flat)  
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
-
-#### 🔗 Backend & APIs  
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=000&style=flat)  
-![Strapi](https://img.shields.io/badge/-Strapi-4945FF?logo=strapi&logoColor=white&style=flat)  
-![Notion](https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=white&style=flat)  
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white&style=flat)
-
-#### 🎨 Design & Prototyping  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 
 ---
 
-### 🚀 My Portfolio Site  
-See My Work and Coding tutorial blogs → [**sujalvanjare.com**](https://www.sujalvanjare.com)  
+
+
+### 🔗 Let's Connect
+[<img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" height="36" alt="Gmail" />](mailto:sujalvanjaredev@gmail.com) &nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="36" alt="LinkedIn" />](https://www.linkedin.com/in/sujal-vanjare) &nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" height="36" alt="X" />](https://x.com/sujal_vanjare) &nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Threads_%28app%29.svg" height="36" alt="Threads" />](https://www.threads.com/@sujal_.160) &nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="36" alt="Bluesky" />](https://bsky.app/profile/sujal-160.bsky.social) &nbsp;
+[<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="36" alt="Instagram" />](https://www.instagram.com/sujal_.160/) &nbsp;
+[<img src="https://cdn.buymeacoffee.com/uploads/project_updates/2023/12/08f1cf468ace518fc8cc9e352a2e613f.png" height="36" alt="Buy Me a Coffee" />](https://buymeacoffee.com/sujal_vanjare)
+
+
+<br><br>
 
 ---
 
-### 💼 Looking for Opportunities  
-**Available for Remote Roles** | Let's connect: [sujalvanjaredev@gmail.com](mailto:sujalvanjaredev@gmail.com)  
+### 📑 Latest Coding tutuorial Blogs  
+[![Blog Thumbnail](https://res.cloudinary.com/drzcgtzx8/image/upload/c_scale,w_500/v1740045680/portfolio/blog/iooblv4emhxchpa9o5c7.png)](https://www.sujalvanjare.com/blog/safelist-classes-tailwind-css-v4)
 
----
+**[How to Safelist Classes in Tailwind CSS V4](https://www.sujalvanjare.com/blog/safelist-classes-tailwind-css-v4)**  
 
-### 📕 Latest Blog Posts  
-- [How to Safelist Classes in Tailwind CSS V4](https://www.sujalvanjare.com/blog/safelist-classes-tailwind-css-v4)  
-- [How to Add Dark Mode in Next.js 15 App Router with Tailwind CSS V4 (Latest Method)](https://www.sujalvanjare.com/blog/dark-mode-nextjs15-tailwind-v4)  
+<br>
+
+[![Blog Thumbnail](https://res.cloudinary.com/drzcgtzx8/image/upload/c_scale,w_500/v1740837389/portfolio/blog/oo12fmjzvemmk1dgoavk.png)](https://www.sujalvanjare.com/blog/dark-mode-nextjs15-tailwind-v4)
+
+**[How to Add Dark Mode in Next.js 15 App Router with Tailwind CSS V4 (Latest Method)](https://www.sujalvanjare.com/blog/dark-mode-nextjs15-tailwind-v4)**  
+
 
